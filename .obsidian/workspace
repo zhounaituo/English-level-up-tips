@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "8c95b69f1ed48f81",
+    "type": "split",
+    "children": [
+      {
+        "id": "d27894b0fd24c9a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "my_note.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e81a8472ebb493e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c0300ff59445eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "800d20ce5743bb7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5bd1bae1cffbaf3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "221270f7ab1b4d81",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a90ba5513b414ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "9375cc9a75e8909f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c062d0e11a1d857",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "my_note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5778fe87ad96a220",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "my_note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31156e62ec678841",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e1cb60c0afc6740",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "my_note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d27894b0fd24c9a3",
+  "lastOpenFiles": [
+    "README.md",
+    "assets/How.png",
+    "assets/Feature@2x.png",
+    "assets/Feature.png",
+    "SUMMARY.md",
+    "assets/dict.JPG",
+    "assets/ConeofLearning-old.png",
+    "assets/CEFR@2x.png",
+    "draft.md",
+    "my_note.md"
+  ]
+}
